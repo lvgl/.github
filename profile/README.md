@@ -1,4 +1,3 @@
-
 <p align="right">
   <a href="https://lvgl.io" title="Homepage of LVGL">Website</a> •
   <a href="https://forum.lvgl.io" title="Get help and help others">Forum</a> •
@@ -55,7 +54,7 @@ A separate UI library for safety-critical products in medical, industrial, aeros
      <img width="200" alt="safe" src="https://github.com/user-attachments/assets/5bb9e1a5-a195-4849-91e6-9bb31ff50f70"" />
     </td>
     <td>
-      <h3>Professinal Services</h3>
+      <h3>Professional Services</h3>
 Direct support from the LVGL team with guaranteed response times, training, custom development, and integration help under an SLA. 
       <br/> <a href="https://lvgl.io/services">Website</a>
     </td>
